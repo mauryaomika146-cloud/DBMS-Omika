@@ -1,4 +1,6 @@
-# PRACTICAL FILE ASSIGNMENT – QUESTION 2  
+# Experiment :- 2
+
+---
 ## (Retrieving Data using EMPLOYEE Table)
 
 ---
